@@ -5,7 +5,7 @@
 ### 1 .Clone/Fork the git repo
           
 ```bash
-git clone https://github.com/motvy/monitoring_api.git
+git clone https://github.com/motvy/Sber-Monitoring-App.git
 cd Sber-Monitoring-App
 
 ```
@@ -29,7 +29,7 @@ pip install -r requirements.txt
 ### 1 .Clone/Fork the git repo
           
 ```bash
-git clone https://github.com/motvy/monitoring_api.git
+git clone https://github.com/motvy/Sber-Monitoring-App.git
 cd Sber-Monitoring-App
 
 ```
